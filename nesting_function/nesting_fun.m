@@ -1,4 +1,5 @@
 (* ::Package:: *)
+#!/usr/local/bin/MathematicaScript -script (*.m: linux version*)
 
 LaunchKernels[16];  (*parallel 16 cores*)
 
