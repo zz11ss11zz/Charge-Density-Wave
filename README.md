@@ -1,7 +1,7 @@
 # Charge Density Wave
 Summary codes used in my CDW research. \
 Updating without a fixed schedule. \
-The detail underlying physics can be found in my publications, the related physical quantities are briefly shown below.
+The detailed underlying physics can be found in my publications, the related physical quantities are briefly shown below.
 
 ## Phonon instability (q-dependent)
 ### Fermi Surface Nesting (FSN)
