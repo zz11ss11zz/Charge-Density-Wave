@@ -5,11 +5,11 @@ SetSystemOptions["ParallelOptions" -> "MathLinkTimeout" -> 30.]
 
 LaunchKernels[16]; (*parallel 16 cores*)
 
-inputkxFileName="../kx.txt";
-inputkyFileName="../ky.txt";
-inputEnergyFileName="../energy.txt";
-inputqFileName="../111.dat";  (*EPC information from EPW*)
-inputw90FileName="../NbSe2_geninterp.dat"; (*band velocities from Wannier90*)
+inputkxFileName="../inputs/kx.txt";
+inputkyFileName="../inputs/ky.txt";
+inputEnergyFileName="../inputs/energy.txt";
+inputqFileName="../inputs/111.dat";  (*EPC information from EPW*)
+inputw90FileName="../inputs/wannier90_geninterp.dat"; (*band velocities from Wannier90*)
 
 initialOutput={};
 
