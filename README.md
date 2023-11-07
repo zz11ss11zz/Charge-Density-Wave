@@ -33,9 +33,18 @@ Transfer sum over $\mathbf{q}$ to sum over $\mathbf{k}$ is from my institution, 
 ```
 ### Inelastic scattered electrons
 ```math
-\chi_\mathbf{k}=\sum_{\mathbf{q}}{\left|g_{\mathbf{k},\mathbf{k}+\mathbf{q}}\right|^2\frac{f(\varepsilon_\mathbf{k})-f(\varepsilon_{\mathbf{k}+\mathbf{q}})}{\varepsilon_{\mathbf{k}+\mathbf{q}}-\varepsilon_\mathbf{k}}},
+\chi_\mathbf{k}=\sum_{\mathbf{q}}{\left|g_{\mathbf{k},\mathbf{k}+\mathbf{q}}\right|^2\frac{f(\varepsilon_\mathbf{k})-f(\varepsilon_{\mathbf{k}+\mathbf{q}})}{\varepsilon_{\mathbf{k}+\mathbf{q}}-\varepsilon_\mathbf{k}}}
 ```
-
+## Electron instability
+The spectral function is calculated to show the CDW gaps
+* Mean-field Hamiltonian
+```math
+H_{mf}=\sum_{\mathbf{k}}{\varepsilon_\mathbf{k}c_\mathbf{k}^\dagger c_\mathbf{k}+\sum_{\mathbf{k},\mathbf{Q}}{2g_{\mathbf{k},\mathbf{k}+\mathbf{Q}}\Delta_\mathbf{Q}c_\mathbf{k}^\dagger c_{\mathbf{k}+\mathbf{Q}}}}+h.c..
+```
+* Retarded Green’s function
+```math
+G_R(\omega) = (\omega + i \eta - H_{\text{mf}} )^{-1}.
+```
 
 ## Publications
 If you use these CDW codes in your work, please consider citing:
