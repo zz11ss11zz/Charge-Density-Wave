@@ -1,5 +1,5 @@
 # Charge Density Wave
-Summary codes used in my CDW research. \
+Summary codes used to calculate electronic susceptibility (phonon softening) and spectral function (electronic gap opening) in my CDW research. \
 Updating without a fixed schedule. \
 The detailed underlying physics can be found in my publications, the related physical quantities are briefly shown below.
 
