@@ -1,4 +1,5 @@
 (* ::Package:: *)
+#!/usr/local/bin/MathematicaScript -script (*.m: linux version*)
 
 SetSystemOptions["ParallelOptions" -> "MathLinkTimeout" -> 30.]
 
