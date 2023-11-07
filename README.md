@@ -1,2 +1,2 @@
-# Charge-Density-Wave
+# Charge Density Wave
 Summary codes used in my CDW research
