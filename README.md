@@ -49,7 +49,9 @@ G_R(\omega) = (\omega + i \eta - H_{\text{mf}} )^{-1}.
 
 ## Publications
 If you use these CDW codes in your work, please consider citing:
->> Z. Wang, C. Chen, J. Mo, J. Zhou, K. P. Loh, and Y. P. Feng, _Decisive role of electron-phonon coupling for phonon and electron instabilities in transition metal dichalcogenides._
+>> **Z. Wang**, J. Zhou, K. P. Loh, and Y. P. Feng, _Controllable phase transitions between multiple charge density waves in monolayer 1T-VSe<sub>2</sub> via charge doping._
+   [Appl. Phys. Lett. **119**, 163101 (2021)](https://pubs.aip.org/aip/apl/article-abstract/119/16/163101/40422/Controllable-phase-transitions-between-multiple?redirectedFrom=fulltext)  
+>> **Z. Wang**, C. Chen, J. Mo, J. Zhou, K. P. Loh, and Y. P. Feng, _Decisive role of electron-phonon coupling for phonon and electron instabilities in transition metal dichalcogenides._
    [Phys. Rev. Research **5**, 013218 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.013218)  
->> Z. Wang, J-Y. You, C. Chen, J. Mo, J. He, L. Zhang, J. Zhou, K. P. Loh, and Y. P. Feng, _Interplay of the charge density wave transition with topological and superconducting properties._
+>> **Z. Wang**, J-Y. You, C. Chen, J. Mo, J. He, L. Zhang, J. Zhou, K. P. Loh, and Y. P. Feng, _Interplay of the charge density wave transition with topological and superconducting properties._
    [Nanoscale Horizons **8**, 1395 (2023)](https://pubs.rsc.org/en/content/articlelanding/2023/nh/d3nh00207a)
